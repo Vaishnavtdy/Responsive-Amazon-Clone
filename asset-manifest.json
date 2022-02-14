@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Responsive-Amazon-Clone/static/css/main.4bcc89a6.css",
+    "main.js": "/Responsive-Amazon-Clone/static/js/main.b00d27a4.js",
+    "index.html": "/Responsive-Amazon-Clone/index.html",
+    "main.4bcc89a6.css.map": "/Responsive-Amazon-Clone/static/css/main.4bcc89a6.css.map",
+    "main.b00d27a4.js.map": "/Responsive-Amazon-Clone/static/js/main.b00d27a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bcc89a6.css",
+    "static/js/main.b00d27a4.js"
+  ]
+}
